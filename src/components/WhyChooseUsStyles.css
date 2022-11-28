@@ -1,0 +1,128 @@
+.cta-section.home-why-choose {
+  position: relative;
+}
+
+.cta-section {
+  overflow: hidden;
+}
+
+.cta-sec-wrap {
+  padding-top: 11.5vw;
+  padding-bottom: 11.5vw;
+  background-image: url(https://assets.website-files.com/628b63417f88c4395b4f4efe/628b73436d18fe52b198bdfa_Why%20Choose%20Us-min.png);
+  background-position: 0 0;
+  background-size: cover;
+}
+
+._85-width-with-padding {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 85%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.cta-container {
+  width: 52vw;
+}
+
+.sa-slide-1 {
+  margin-bottom: 2em;
+}
+
+.section-heading-wrap {
+  margin-bottom: 2vw;
+  border-bottom: 0 solid transparent;
+}
+
+.section-heading.white-color,
+.section-heading.white-color.service-overview-heading {
+  color: #fff;
+}
+
+.section-heading {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #4d4d4d;
+  font-size: 3.7em;
+  line-height: 100%;
+  font-weight: 400;
+}
+
+.text-underline.why-shoose-underline {
+  background-color: #64bcbb;
+}
+.text-underline {
+  width: 10vw;
+  height: 2px;
+  min-width: 100px;
+  margin-top: 1vw;
+  border-bottom: 0 transparent;
+  background-color: #003771;
+}
+
+@media screen and (min-width: 1440px) {
+  .desc-wrap {
+    padding-right: 15px;
+  }
+}
+
+.comn-light-desc {
+    font-family: Notoserif,sans-serif;
+    color: #fff;
+    font-size: 1.31em;
+    line-height: 159.2%;
+}
+
+.cta-btn-wrap {
+    margin-top: 2.8vw;
+}
+
+.default-btn.green-btn.why-choose-btn {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 15);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.default-btn.green-btn {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 15);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.default-btn {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 15);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.w-button {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 15);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+}

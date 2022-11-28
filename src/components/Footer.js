@@ -26,6 +26,9 @@ function Footer() {
                         Pfd100@live.com</h4>
                     </div>
                 </div>
+                <div>
+                    <img src="https://assets.website-files.com/628b63417f88c4395b4f4efe/628b73c4d432325cd831a3f7_Footer%20logo.png" loading="lazy" alt="" className="image-50"/>
+                </div>
                 <div className="right">
                     <h4>About the company</h4>
                     <p>All Rights Reserved.</p>
