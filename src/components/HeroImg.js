@@ -12,7 +12,8 @@ function HeroImg() {
             <img className="intro-img" src={Intro} alt="IntrImg"/>
         </div> */}
       <div className="mask">
-        <video src={'https://precisionsmiles.b-cdn.net/comercial.mp4'} playsInline autoPlay loop muted />
+        {/* <video src={'https://precisionsmiles.b-cdn.net/comercial.mp4'} playsInline autoPlay loop muted /> */}
+        <video src={Videobg} playsInline autoPlay loop muted />
       </div>
       <div className="content">
         <p>Offering Quality Dentistry
